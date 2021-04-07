@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Essentials of Big Data Analytics"
+author: "Erik Haugom and Ørjan Mydland"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
